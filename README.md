@@ -17,8 +17,8 @@ Hate speech detection plays a crucial role in moderating online content and miti
 The final BERT model achieved a significantly improved performance compared to the initial proposal metrics, particularly in detecting hate speech and neutral language. Below are the final recall values:
 
 ### Final Recall:
-1. **Hate Speech: 0.61
-2. **Offensive Seech: 0.90
+1. **Hate Speech: 0.63
+2. **Offensive Seech: 0.89
 3. **Neutral: 0.89
 
 ### Initial Proposal Recall:
